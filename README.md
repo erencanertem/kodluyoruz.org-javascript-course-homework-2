@@ -1,4 +1,3 @@
-## Kodluyoruz.org Javascript Course Homework 2 - To Do Project
+To-do-App
 
-## Kodluyoruz.org Javascript Eğitimi Ödev 2 - To Do Uygulaması
-
+Used Tech : HTML - CSS - JS
